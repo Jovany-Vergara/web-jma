@@ -1,0 +1,13 @@
+.navbar-bg{
+    background: gainsboro !important;
+}
+
+.colorGeneral{
+  background: linear-gradient(135deg, #7b253d 0%, #45051c 80%) !important;
+  color: rgb(255, 255, 255);
+  word-wrap: break-word;
+}
+.colorGeneral:hover{
+  color: rgb(255, 255, 255);
+  word-wrap: break-word;
+}

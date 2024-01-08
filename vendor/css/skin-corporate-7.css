@@ -4300,12 +4300,12 @@ html[dir="rtl"] #header .tip-light:before {
 }
 
 #header .header-btn-collapse-nav {
-	background: #e36159;
+	background: #7d283e;
 }
 
 @media (min-width: 992px) {
 	#header .header-nav-main nav > ul > li > a {
-		color: #e36159;
+		color: #7d283e;
 	}
 
 	#header .header-nav-main nav > ul > li.open > a,
@@ -4349,11 +4349,11 @@ html[dir="rtl"] #header .tip-light:before {
 	}
 
 	#header .header-nav.header-nav-links nav > ul li:hover > a {
-		color: #e36159;
+		color: #42031a;
 	}
 
 	#header .header-nav.header-nav-links nav > ul:not(:hover) > li > a.active {
-		color: #e36159;
+		color: #42031a;
 	}
 
 	#header .header-nav.header-nav-links.header-nav-links-vertical-slide nav ul li.dropdown .dropdown-menu::-webkit-scrollbar-thumb {
@@ -4921,12 +4921,12 @@ html[dir="rtl"] #header .tip-light:before {
 	}
 
 	#header .header-nav-main.header-nav-main-mobile-dark nav > ul > li > a.active {
-		background: #e36159;
+		background: #7d283e;
 	}
 
 	#header .header-nav-main.header-nav-main-mobile-dark nav > ul > li > a.active:focus,
 	#header .header-nav-main.header-nav-main-mobile-dark nav > ul > li > a.active:hover {
-		background: #e36159;
+		background: #7d283e;
 	}
 
 	html.side-header-hamburguer-sidebar #header.side-header .header-nav.header-nav-links .header-nav-main.header-nav-main-mobile-dark nav > ul > li > a.active {
