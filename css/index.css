@@ -11,3 +11,7 @@
   color: rgb(255, 255, 255);
   word-wrap: break-word;
 }
+
+.textColorGeneral{
+  color: #7b253d !important;
+}
