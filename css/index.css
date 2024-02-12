@@ -15,3 +15,7 @@
 .textColorGeneral{
   color: #7b253d !important;
 }
+
+.large-text {
+  font-size: 17px !important;
+}
