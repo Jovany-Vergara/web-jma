@@ -1092,15 +1092,15 @@ html .overlay-color-light:not(.no-skin):before {
 }
 
 html .btn-primary {
-	background-color: #e36159;
-	border-color: #e36159 #e36159 #dc372d;
+	background-color: #90324b;
+	border-color: #90324b #90324b #dc372d;
 	color: #FFF;
 }
 
 html .btn-primary:hover,
 html .btn-primary.hover {
-	background-color: #e9807a;
-	border-color: #ea8b85 #ea8b85 #e36159;
+	background-color: #90324b;
+	border-color: #90324b #90324b #90324b;
 	color: #FFF;
 }
 
