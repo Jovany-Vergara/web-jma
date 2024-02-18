@@ -1,9 +1,9 @@
 const sendNotification = (name, phone, mensaje, email) =>  {
-  const message = `Hi! \nI want to communicate with you
-                        My name is: ${name}
-                        Phone: ${phone}
+  const message = `Hola! \nMe quiero comunicar con ustedes para solicitar información sobre sus servicios. \n\n
+                        Mi Nombre es: ${name}
+                        Teléfono: ${phone}
                         Email: ${email}
-                        Message: ${mensaje}`.replace(/  +/g, '');
+                        Mensaje: ${mensaje}`.replace(/  +/g, '');
 
   //window.open(`https://api.whatsapp.com/send?phone=525583817789&text=${encodeURIComponent(message)}`, "_target")
   window.open(`mailto:contacto@juristasmx.com?subject=JURISTAS MEXICANOS ASOCIADOS&body=${encodeURIComponent(message)}`, "_target")
