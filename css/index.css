@@ -19,3 +19,14 @@
 .large-text {
   font-size: 17px !important;
 }
+
+.whatsapp-icon {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  z-index: 1000;
+}
+.whatsapp-image {
+  width: 50px; /* Ajusta este valor para cambiar el tamaño de la imagen */
+  height: auto;
+}
